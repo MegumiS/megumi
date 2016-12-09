@@ -1,1 +1,4 @@
 My research topic is supporting trumpet performance teqnique.
+
+1. Anaysis of relationship between muscle activity and acoustic features
+2. Reflective learning system
